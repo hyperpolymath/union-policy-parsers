@@ -1,0 +1,36 @@
+= union-policy-parsers - Citation Guide
+:toc:
+
+== BibTeX
+
+[source,bibtex]
+----
+@software{union-policy-parsers_2025,
+  author = {Polymath, Hyper},
+  title = {union-policy-parsers},
+  year = {2025},
+  url = {https://github.com/hyperpolymath/union-policy-parsers},
+  license = {AGPL-3.0-or-later}
+}
+----
+
+== Harvard Style
+
+Polymath, H. (2025) _union-policy-parsers_ [Computer software]. Available at: https://github.com/hyperpolymath/union-policy-parsers
+
+== OSCOLA
+
+Hyper Polymath, 'union-policy-parsers' (2025) <https://github.com/hyperpolymath/union-policy-parsers>
+
+== MLA
+
+Polymath, Hyper. "union-policy-parsers." 2025, github.com/hyperpolymath/union-policy-parsers.
+
+== APA 7
+
+Polymath, H. (2025). _union-policy-parsers_ [Computer software]. GitHub. https://github.com/hyperpolymath/union-policy-parsers
+
+== See Also
+
+* link:../CITATION.cff[CITATION.cff]
+* link:../codemeta.json[codemeta.json]
